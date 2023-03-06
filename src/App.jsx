@@ -10,7 +10,7 @@ export default function App(){
             <BrowserRouter>
                 <Routes>
               
-                    <Route path="/" element={<ControlPannel/>}/>
+                    <Route path="/todu_React_app" element={<ControlPannel/>}/>
                     {auth?  <Route path="task" element={<Tasks/>}/>:<Route path="/" element={<ControlPannel/>}/> }
                    
                 </Routes>
