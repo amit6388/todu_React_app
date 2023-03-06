@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/todu_React_app/static/css/main.c2cab247.css",
-    "main.js": "/todu_React_app/static/js/main.89db270e.js",
+    "main.js": "/todu_React_app/static/js/main.6d02dd38.js",
     "index.html": "/todu_React_app/index.html",
     "main.c2cab247.css.map": "/todu_React_app/static/css/main.c2cab247.css.map",
-    "main.89db270e.js.map": "/todu_React_app/static/js/main.89db270e.js.map"
+    "main.6d02dd38.js.map": "/todu_React_app/static/js/main.6d02dd38.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.89db270e.js"
+    "static/js/main.6d02dd38.js"
   ]
 }
