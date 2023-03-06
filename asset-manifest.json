@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todu_React_app/static/css/main.c2cab247.css",
+    "main.js": "/todu_React_app/static/js/main.f5441074.js",
+    "index.html": "/todu_React_app/index.html",
+    "main.c2cab247.css.map": "/todu_React_app/static/css/main.c2cab247.css.map",
+    "main.f5441074.js.map": "/todu_React_app/static/js/main.f5441074.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.f5441074.js"
+  ]
+}
